@@ -1,0 +1,2 @@
+# vebtexnologiyalar
+new repo
